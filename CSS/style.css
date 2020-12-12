@@ -71,6 +71,7 @@ div.funkcio:hover{
 }
 #szamolas{
     padding-top: 15px;
+    padding-right: 8px;
     text-align: right;
     background: rgb(83,106,85);
     background: linear-gradient(45deg, rgba(83,106,85,1) 0%, rgba(117,155,120,0.9839286056219363) 49%, rgba(83,106,85,0.9699230033810399) 100%);
