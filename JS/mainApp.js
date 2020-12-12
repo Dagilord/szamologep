@@ -21,5 +21,5 @@ mainApp.hndlNumericKey = function(me){
         "box-shadow":"inset 2px 2px 4px #000000",
         "height":"34px",
         "width":"44px"
-    }) ;
+    });
 }
